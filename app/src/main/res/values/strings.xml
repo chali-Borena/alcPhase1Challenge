@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ACL 4.0 Phase 1 Challenge - Android</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="slack_value">\@Chali Borena</string>
+    <string name="phone_value">+251983985737</string>
+    <string name="email_value">chaliBorena@protonmail.com</string>
+    <string name="country_value">Ethiopia</string>
+    <string name="track_value">Android</string>
+    <string name="slack">Slack Username:</string>
+    <string name="phone">Phone Number:</string>
+    <string name="email">Email:</string>
+    <string name="country">Country:</string>
+    <string name="track">Track:</string>
+    <string name="greetings">Greetings</string>
+    <string name="email_body">Hello , Chali Borena</string>
+    <string name="name">Chali Borena</string>
+    <string name="activty_name_alc">About ALC</string>
+    <string name="activity_name_profile">My Profile</string>
+    <string name="help_string">Tap the buttons bellow to learn more</string>
+    <string name="slogan">Welcome to ALC 4.0</string>
+</resources>
